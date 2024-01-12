@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align=center>
+    <a href="[https://](https://github.com/VuVietDuy)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Vu+Minh+Ngoc" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**VuThiMinhNgoc/VuThiMinhNgoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://github.com/VuVietDuy">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VuVietDuy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuVietDuy&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+        <img height="180em" src="https://streak-stats.demolab.com?user=VuVietDuy&theme=tokyonight&hide_border=true"/>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
